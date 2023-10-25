@@ -1,7 +1,9 @@
 # Azure FinOps
 
 ## Tooling
-Azure Cost Management       https://learn.microsoft.com/en-us/azure/cost-management-billing/
+| Azure Cost Management | https://learn.microsoft.com/en-us/azure/cost-management-billing/ |
+| Azure Pricing Calculator | https://azure.microsoft.com/en-au/pricing/calculator/ |
+
 Azure Pricing Calculator    https://azure.microsoft.com/en-au/pricing/calculator/
 Azure Advisor Cost          https://learn.microsoft.com/en-us/azure/advisor/advisor-reference-cost-recommendations
 FinOps on Azure             https://azure.microsoft.com/en-us/solutions/finops
